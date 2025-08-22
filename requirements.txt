@@ -1,0 +1,13 @@
+langchain
+openai
+serpapi
+python-dotenv
+google-search-results
+langchain_community
+tiktoken
+langchain-openai
+sentence-transformers
+faiss-cpu
+cohere
+langchain-cohere
+crewai
